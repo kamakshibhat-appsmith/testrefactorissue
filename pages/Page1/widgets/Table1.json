@@ -509,7 +509,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 39,
   "searchKey": "",
-  "tableData": "{{Query1.data}}",
+  "tableData": "{{Query11.data}}",
   "textSize": "0.875rem",
   "topRow": 7,
   "totalRecordsCount": 0,
