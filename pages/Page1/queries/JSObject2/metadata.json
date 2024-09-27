@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66f65de786816b5a4c2f883e_082cdce2-616e-4b1d-ba15-2d5bddb35bc3",
-  "id": "Page1_Query11",
+  "id": "Page1_JSObject2",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -23,7 +23,7 @@
       "pluginId": "postgres-plugin"
     },
     "executeOnLoad": true,
-    "name": "Query11",
+    "name": "JSObject2",
     "pageId": "Page1",
     "userSetOnLoad": false
   }
